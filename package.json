@@ -1,6 +1,6 @@
 {
   "name": "@alexvcasillas/react-native-undetermined-progress",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Undetermined Progress Bar component for your React Native application",
   "main": "src/react-native-undetermined-progress.js",
   "repository": "https://github.com/alexvcasillas/react-native-undetermined-progress.git",
