@@ -76,7 +76,7 @@ default false
 This prop will control the undetermined animation type. If setted to true, the progress bar will go back and forth from the
 edges of the holder. If setted to false (default behaviour) will keep it running from left to right.
 
-### barMaxWidth
+### barMaxWidth
 
 ```js
 @type {Number}
